@@ -1,0 +1,16 @@
+{
+  "name": "1.7-api-rest",
+  "version": "1.0.0",
+  "description": "Api rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Leilany0206",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.19"
+  }
+}
